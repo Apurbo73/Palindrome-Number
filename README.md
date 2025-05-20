@@ -54,4 +54,3 @@ Enter an integer: 12345
 
 ---
 
-Let me know if you want a version that checks **palindrome strings**, works with **negative numbers**, or uses **recursion**!
