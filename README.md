@@ -1,8 +1,3 @@
-#﻿## Palindrome Number:
-
-
-
-
 
 ### ✅ What is a Palindrome Number?
 
