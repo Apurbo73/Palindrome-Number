@@ -99,5 +99,4 @@ This is a **fundamental algorithm** that teaches key programming concepts.
 
 ---
 
-Let me know if you meant **"Why is TypeScript (TS) needed?"** instead — happy to answer that too!
 
