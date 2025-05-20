@@ -4,7 +4,6 @@ This C++ program checks whether a number is a palindrome without using any funct
 
 
 
-Here’s a simple **C++ program** to check if a number is a **palindrome**:
 
 ### ✅ What is a Palindrome Number?
 
