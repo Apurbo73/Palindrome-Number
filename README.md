@@ -1,3 +1,3 @@
-﻿## Palindrome Number:
+#﻿## Palindrome Number:
 
 This C++ program checks whether a number is a palindrome without using any functions. A palindrome number reads the same forward and backward (e.g., 121 or 1331). The program first takes an integer input from the user and stores a copy of it in the variable `originalNum`. It then reverses the number by extracting each digit using the modulus operator (`%`) and appending it to `reversedNum` after shifting its digits left by multiplying by 10. This is done inside a `while` loop that continues until the number becomes zero. After reversing the number, the program compares the reversed number with the original. If they are equal, it prints that the number is a palindrome; otherwise, it prints that it is not. The logic is simple and uses basic arithmetic operations and control structures without the use of custom functions...
