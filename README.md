@@ -55,7 +55,6 @@ Enter an integer: 12345
 ---
 
 
-It looks like you're asking **"why is it needed?"** in relation to **checking for palindrome numbers** in C++. Here's a breakdown of **why such a program might be useful or necessary**:
 
 ---
 
