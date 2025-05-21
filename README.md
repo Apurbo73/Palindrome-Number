@@ -40,7 +40,7 @@ int main() {
 
 ---
 
-### 🔎 Sample Output
+#### 🔎 Sample Output
 
 ```
 Enter an integer: 12321
