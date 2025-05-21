@@ -58,7 +58,7 @@ Enter an integer: 12345
 
 ---
 
-### 🔹 Why Check for Palindrome Numbers?
+#### 🔹 Why Check for Palindrome Numbers?
 
 #### 1. **Programming Practice**
 
