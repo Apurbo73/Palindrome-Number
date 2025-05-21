@@ -89,7 +89,7 @@ Enter an integer: 12345
 
 ---
 
-### 🔹 Why Is the Code Itself Structured This Way?
+#### 🔹 Why Is the Code Itself Structured This Way?
 
 * We **store the original number** to compare it later.
 * We **reverse the number** using modulo and division.
